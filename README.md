@@ -2,7 +2,7 @@
 
 Modern restaurant website with elegant dining experience presentation and interactive features.
 
-
+**Live Demo:** [food-lover-panjiyevdev.netlify.app](https://food-lover-panjiyevdev.netlify.app/)
 
 ## 🌟 Features
 
